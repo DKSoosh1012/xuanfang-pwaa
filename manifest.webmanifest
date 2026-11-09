@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "AI 能量選號器 Pro",
+  "short_name": "AI 選房",
+  "description": "AI 能量房號抽選器",
+  "lang": "zh-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02040d",
+  "theme_color": "#02040d",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
